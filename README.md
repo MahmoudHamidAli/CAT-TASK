@@ -1,0 +1,1 @@
+To test JS code please open console.
